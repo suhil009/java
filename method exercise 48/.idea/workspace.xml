@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ee6fe8-fc15-4fb3-b630-d37fb5791e28" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="ProjectId" id="1X9RebbWaE2GtJuWK7YTjrQVkBy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="method exercise 48" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ee6fe8-fc15-4fb3-b630-d37fb5791e28" name="Default Changelist" comment="" />
+      <created>1580456419127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580456419127</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580461613788">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="461" y="265" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1440.797@0.23.1440.797" timestamp="1580461613788" />
+    <state width="437" height="634" key="GridCell.Tab.0.bottom" timestamp="1580459646522">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="437" height="634" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1580459646522" />
+    <state width="437" height="634" key="GridCell.Tab.0.center" timestamp="1580459646520">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="437" height="634" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1580459646520" />
+    <state width="437" height="634" key="GridCell.Tab.0.left" timestamp="1580459646520">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="437" height="634" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1580459646520" />
+    <state width="437" height="634" key="GridCell.Tab.0.right" timestamp="1580459646521">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="437" height="634" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1580459646521" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1580460462314">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="221" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1580459537892" />
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1580460462314" />
+    <state x="392" y="126" key="com.intellij.ide.util.TipDialog" timestamp="1580469934114">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="392" y="126" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1580469934114" />
+  </component>
+</project>
